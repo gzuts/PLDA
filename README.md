@@ -8,3 +8,5 @@ code for the paper "One-step Domain Adaptation Approach with Partial Label"
 - pytorch==1.9
 - torchvision==0.2.0
 - tllib==0.4
+
+Please create folders with the names "logs" and "saved_models" before running.
